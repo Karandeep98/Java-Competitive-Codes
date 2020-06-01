@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Code7_PascalTriangle {
+public class Code007_PascalTriangle {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int n=sc.nextInt();

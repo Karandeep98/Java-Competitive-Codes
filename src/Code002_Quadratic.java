@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Code2_Quadratic {
+public class Code002_Quadratic {
     public static void main(String[] args) {
         int a,b,c;
         float d;

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Code6_PrateekSirAndcoding {
+public class Code006_PrateekSirAndcoding {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         int q=sc.nextInt();

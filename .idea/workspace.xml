@@ -192,29 +192,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code1_VonNeuman">
-    <configuration name="Code1_VonNeuman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code1_VonNeuman" />
+  <component name="RunManager" selected="Application.Code001_VonNeuman">
+    <configuration name="Code001_VonNeuman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code001_VonNeuman" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Code5_PrateekLovescandy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code5_PrateekLovescandy" />
+    <configuration name="Code005_PrateekLovescandy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code005_PrateekLovescandy" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Code6_PrateekSirAndcoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code6_PrateekSirAndcoding" />
+    <configuration name="Code006_PrateekSirAndcoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code006_PrateekSirAndcoding" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Code7_PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code7_PascalTriangle" />
+    <configuration name="Code007_PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code007_PascalTriangle" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Code8_HollowRhombusPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code8_HollowRhombusPattern" />
+    <configuration name="Code008_HollowRhombusPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code008_HollowRhombusPattern" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -260,19 +260,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Code7_PascalTriangle" />
-      <item itemvalue="Application.Code5_PrateekLovescandy" />
-      <item itemvalue="Application.Code6_PrateekSirAndcoding" />
-      <item itemvalue="Application.Code8_HollowRhombusPattern" />
-      <item itemvalue="Application.Code1_VonNeuman" />
+      <item itemvalue="Application.Code007_PascalTriangle" />
+      <item itemvalue="Application.Code005_PrateekLovescandy" />
+      <item itemvalue="Application.Code006_PrateekSirAndcoding" />
+      <item itemvalue="Application.Code008_HollowRhombusPattern" />
+      <item itemvalue="Application.Code001_VonNeuman" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code1_VonNeuman" />
-        <item itemvalue="Application.Code8_HollowRhombusPattern" />
-        <item itemvalue="Application.Code6_PrateekSirAndcoding" />
-        <item itemvalue="Application.Code7_PascalTriangle" />
-        <item itemvalue="Application.Code5_PrateekLovescandy" />
+        <item itemvalue="Application.Code001_VonNeuman" />
+        <item itemvalue="Application.Code008_HollowRhombusPattern" />
+        <item itemvalue="Application.Code006_PrateekSirAndcoding" />
+        <item itemvalue="Application.Code007_PascalTriangle" />
+        <item itemvalue="Application.Code005_PrateekLovescandy" />
       </list>
     </recent_temporary>
   </component>
