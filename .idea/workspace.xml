@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a96c4180-278f-4bd5-b70d-e7b31d6fc482" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimeVisits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GFGCodesjava/VonNeuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HollowRhombusPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code8_HollowRhombusPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code7_PascalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code3_Pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code4_Pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrateekLovescandy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code5_PrateekLovescandy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrateekSirAndcoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code6_PrateekSirAndcoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeVisits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code10_PrimeVisits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quadratic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code2_Quadratic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VonNeuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code1_VonNeuman.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,29 +28,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="Code1_VonNeuman.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Code1_VonNeuman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#113#114#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VonNeuman.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VonNeuman.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quadratic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Quadratic.java">
+      <file leaf-file-name="Code2_Quadratic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code2_Quadratic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
@@ -47,38 +46,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pattern1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Pattern1.java">
+      <file leaf-file-name="Code3_Pattern1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code3_Pattern1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pattern2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Pattern2.java">
+      <file leaf-file-name="Code4_Pattern2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code4_Pattern2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PascalTriangle.java">
+      <file leaf-file-name="Code7_PascalTriangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code7_PascalTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-139">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrateekSirAndcoding.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PrateekSirAndcoding.java">
+      <file leaf-file-name="Code6_PrateekSirAndcoding.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code6_PrateekSirAndcoding.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,26 +85,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HollowRhombusPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HollowRhombusPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrimeVisits.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PrimeVisits.java">
+      <file leaf-file-name="Code8_HollowRhombusPattern.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code8_HollowRhombusPattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrateekLovescandy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PrateekLovescandy.java">
+      <file leaf-file-name="Code10_PrimeVisits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code10_PrimeVisits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code5_PrateekLovescandy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code5_PrateekLovescandy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
@@ -137,6 +136,7 @@
         <option value="$PROJECT_DIR$/src/PascalTriangle.java" />
         <option value="$PROJECT_DIR$/src/PrateekLovescandy.java" />
         <option value="$PROJECT_DIR$/src/PrateekSirAndcoding.java" />
+        <option value="$PROJECT_DIR$/src/005HollowRhombusPattern.java" />
         <option value="$PROJECT_DIR$/src/HollowRhombusPattern.java" />
       </list>
     </option>
@@ -192,29 +192,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HollowRhombusPattern">
-    <configuration name="HollowRhombusPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HollowRhombusPattern" />
+  <component name="RunManager" selected="Application.Code1_VonNeuman">
+    <configuration name="Code1_VonNeuman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code1_VonNeuman" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PascalTriangle" />
+    <configuration name="Code5_PrateekLovescandy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code5_PrateekLovescandy" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern2" />
+    <configuration name="Code6_PrateekSirAndcoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code6_PrateekSirAndcoding" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PrateekLovescandy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrateekLovescandy" />
+    <configuration name="Code7_PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code7_PascalTriangle" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PrateekSirAndcoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrateekSirAndcoding" />
+    <configuration name="Code8_HollowRhombusPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code8_HollowRhombusPattern" />
       <module name="GFGCodesjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -260,19 +260,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Pattern2" />
-      <item itemvalue="Application.PascalTriangle" />
-      <item itemvalue="Application.PrateekLovescandy" />
-      <item itemvalue="Application.PrateekSirAndcoding" />
-      <item itemvalue="Application.HollowRhombusPattern" />
+      <item itemvalue="Application.Code7_PascalTriangle" />
+      <item itemvalue="Application.Code5_PrateekLovescandy" />
+      <item itemvalue="Application.Code6_PrateekSirAndcoding" />
+      <item itemvalue="Application.Code8_HollowRhombusPattern" />
+      <item itemvalue="Application.Code1_VonNeuman" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HollowRhombusPattern" />
-        <item itemvalue="Application.PrateekSirAndcoding" />
-        <item itemvalue="Application.PascalTriangle" />
-        <item itemvalue="Application.PrateekLovescandy" />
-        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Code1_VonNeuman" />
+        <item itemvalue="Application.Code8_HollowRhombusPattern" />
+        <item itemvalue="Application.Code6_PrateekSirAndcoding" />
+        <item itemvalue="Application.Code7_PascalTriangle" />
+        <item itemvalue="Application.Code5_PrateekLovescandy" />
       </list>
     </recent_temporary>
   </component>
@@ -295,13 +295,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17103449" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21103448" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -335,10 +335,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VonNeuman.java">
+    <entry file="file://$PROJECT_DIR$/src/Code1_VonNeuman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code2_Quadratic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code3_Pattern1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code4_Pattern2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code5_PrateekLovescandy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code7_PascalTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code6_PrateekSirAndcoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code10_PrimeVisits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code8_HollowRhombusPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -352,69 +411,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VonNeuman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Quadratic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pattern1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pattern2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrateekLovescandy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PascalTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrateekSirAndcoding.java">
+    <entry file="file://$PROJECT_DIR$/src/Code1_VonNeuman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HollowRhombusPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrimeVisits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>

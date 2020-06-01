@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrateekLovescandy {
+public class Code5_PrateekLovescandy {
    static boolean isprime(int n){
         if(n==0||n==1) return false;
         else{
